@@ -21,4 +21,16 @@ Receba uma mensagem de erro quando o formulário for enviado se: Qualquer campo 
 
 Bônus: conecte o formulário para enviar e armazenar a consulta do usuário (você pode usar uma planilha ou Airtable para salvar as consultas) Bônus: adicione seus próprios detalhes (imagem, habilidades, projetos) para substituir os do design
 
+#
+
+## Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+ - HTML5                (Linguagem de marcação utilizada para a construção das páginas web)
+ - CSS3                 (Mecanismo para adicionar estilos a uma página web)
+ - Git                  (Sistema de controle de versões)
+ - Github               (Plataforma para hospedagem de código-fonte)
+ - Visual Studio Code   (Editor de código-fonte)
+ - Navegador web        (Interação com documentos HTML)
+
+
 
